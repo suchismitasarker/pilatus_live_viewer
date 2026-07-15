@@ -137,9 +137,9 @@ with the CHESS / QM² beamline staff before publishing.
 ---
 
 ## Open in the CHESS beamline
-`Activate the environement`: source /nfs/chess/sw/qm2_6M_viewer/bin/activate
-`Go to the folder`: cd /nfs/chess/id4baux/suchi/2026/nxrefine_data_analysis/pil_live_app/
-`python code`: python pilatus_live_GUI_update.py
+`Activate the environement`: `source /nfs/chess/sw/qm2_6M_viewer/bin/activate`
+`Go to the folder`: `cd /nfs/chess/id4baux/suchi/2026/nxrefine_data_analysis/pil_live_app/`
+`python code`: `python pilatus_live_GUI_update.py`
 
 
 
