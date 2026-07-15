@@ -1,0 +1,4 @@
+fabio
+numpy
+pyqtgraph
+PyQt5
