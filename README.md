@@ -136,9 +136,17 @@ with the CHESS / QM² beamline staff before publishing.
 
 ---
 
+## Open in the CHESS beamline
+`Activate the environement`: source /nfs/chess/sw/qm2_6M_viewer/bin/activate
+`Go to the folder`: cd /nfs/chess/id4baux/suchi/2026/nxrefine_data_analysis/pil_live_app/
+`python code`: python pilatus_live_GUI_update.py
+
+
+
 ## Acknowledgements
 
 Developed for the **QM² (Quantum Materials) beamline, CHESS ID4B**, Cornell High
 Energy Synchrotron Source. Reads Pilatus `.cbf` images via
 [`fabio`](https://github.com/silx-kit/fabio) and renders them with
 [`pyqtgraph`](https://www.pyqtgraph.org/).
+
